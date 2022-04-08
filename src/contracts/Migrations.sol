@@ -21,3 +21,5 @@ contract Migrations {
     upgraded.setCompleted(last_completed_migration);
   }
 }
+
+// Migration smart contract helps in deploying other smart conrtact in a sequential manner to the blockchain
